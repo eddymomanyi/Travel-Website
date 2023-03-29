@@ -1,4 +1,4 @@
-# Travel Destion Website 
+# Travel Destination Website 
 ## Created using React
 
 ### Home page featuring background video
