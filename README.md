@@ -4,7 +4,7 @@
 ### Home page with background video
 https://user-images.githubusercontent.com/115580342/228634023-a1059ff5-9cc9-4c81-a1d6-3f6d1739a35f.mp4
 
-### Destination
+### Destinations
 ![destinations](https://user-images.githubusercontent.com/115580342/228634672-1e0ad88c-4837-4410-be5c-845deffef5d4.png)
 
 ### Footer
