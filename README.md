@@ -1,7 +1,7 @@
 # Travel Destion Website 
 ## Created using React
 
-### Home page with background video
+### Home page featuring background video
 https://user-images.githubusercontent.com/115580342/228634023-a1059ff5-9cc9-4c81-a1d6-3f6d1739a35f.mp4
 
 ### Destinations
