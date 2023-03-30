@@ -1,7 +1,7 @@
 # Travel Destination Website 
 ## Created using React
 
-### Home page featuring background video
+### Home page (video)
 https://user-images.githubusercontent.com/115580342/228691698-90a62aba-8da5-4a2b-9df1-a3add06313c5.mp4
 
 
